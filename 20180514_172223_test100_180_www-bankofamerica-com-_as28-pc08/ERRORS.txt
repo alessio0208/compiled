@@ -1,0 +1,10 @@
+Last finished URL before crash:
+https://www.bankofamerica.com/privacy/online-mobile-banking-privacy/mcafee-antivirus-free-trial.go?request_locale=en_US 1526317038893 1526317049550
+-----------------------------------
+Storing list of potentially unfinished URLs:
+https://www.bankofamerica.com/deposits/managing-your-money.go?request_locale=en_US
+https://www.bankofamerica.com/privacy
+https://www.bankofamerica.com/credit-cards/cash-back-credit-cards/
+https://www.bankofamerica.com/mobile/mobile-banking-help.go?request_locale=en_US
+https://www.bankofamerica.com/auto-loans/buying-new-or-used-cars/
+-----------------------------------
